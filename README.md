@@ -49,7 +49,7 @@ masks = base_model.predict("./image.png")
 
 ## License
 
-[add license information here]
+This project is licensed under an [Apache 2.0 license](LICENSE).
 
 ## 🏆 Contributing
 
